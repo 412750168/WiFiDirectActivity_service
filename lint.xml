@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="NewApi">
+        <ignore path="src/com/example/android/wifidirect/WiFiDirectBroadcastReceiver.java" />
+        <ignore path="src/zzl/bestidear/wifidirect/miracast/StartStopReceiver.java" />
+        <ignore path="src/zzl/bestidear/wifidirect/miracast/TestActivity.java" />
+        <ignore path="src/zzl/bestidear/wifidirect/miracast/WiFiDirectBroadcastReceiver.java" />
+    </issue>
+</lint>
